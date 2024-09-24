@@ -82,3 +82,4 @@ C:\Users\PC\Desktop\SWD_BOOKKK\BookingController\bin\Debug\net7.0\Microsoft.Enti
 C:\Users\PC\Desktop\SWD_BOOKKK\BookingController\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\PC\Desktop\SWD_BOOKKK\BookingController\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\Users\PC\Desktop\SWD_BOOKKK\BookingController\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\PC\Desktop\SWD_BOOKKK\BookingController\obj\Debug\net7.0\BookingController.sourcelink.json

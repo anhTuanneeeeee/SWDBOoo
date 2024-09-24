@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("REPOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c80e5dcc06d3b2a7606d5a29c821e16b2fb97d")]
 [assembly: System.Reflection.AssemblyProductAttribute("REPOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("REPOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
